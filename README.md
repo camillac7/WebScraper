@@ -27,6 +27,3 @@ python main.py
 - (Add your dependencies here)
 
 ## License
-
-MIT License
-
