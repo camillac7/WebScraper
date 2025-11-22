@@ -4,7 +4,7 @@ A web scraping project.
 
 ## Description
 
-This project contains web scraping tools and scripts.
+This project contains web scraping tools and scripts. Testing on https://quotes.toscrape.com/ built specifically for programmers to safely test their web scrapers. 
 
 ## Installation
 
@@ -23,7 +23,14 @@ python main.py
 
 ## Requirements
 
-- Python 3.x
-- (Add your dependencies here)
+- Python 3.7+
+- requests
+- beautifulsoup4
+- lxml
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 ## License
